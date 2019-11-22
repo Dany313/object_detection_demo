@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'tonno'
+}
+
+item {
+  id: 2
+  name: 'pasta'
+}
+
+item {
+  id: 3
+  name: 'zucchine'
+}
+
+item {
+  id: 4
+  name: 'pomodoro'
+}
+
+item {
+  id: 5
+  name: 'pane'
+}
+
+item {
+  id: 6
+  name: 'cipolla'
+}
