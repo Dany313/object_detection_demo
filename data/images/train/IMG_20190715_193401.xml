@@ -1,0 +1,50 @@
+<annotation>
+	<folder>bakfoto 2</folder>
+	<filename>IMG_20190715_193401.jpg</filename>
+	<path>C:\Users\filas\Desktop\bakfoto 2\IMG_20190715_193401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pomodoro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>170</ymin>
+			<xmax>339</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cipolla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>310</ymin>
+			<xmax>343</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>zucchine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>205</ymin>
+			<xmax>377</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

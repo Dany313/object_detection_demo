@@ -1,0 +1,38 @@
+<annotation>
+	<folder>foto progetto</folder>
+	<filename>IMG_20190714_184729.jpg</filename>
+	<path>C:\Users\filas\Desktop\foto progetto\IMG_20190714_184729.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pomodoro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>273</ymin>
+			<xmax>330</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pomodoro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>357</ymin>
+			<xmax>199</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

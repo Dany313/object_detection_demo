@@ -1,0 +1,38 @@
+<annotation>
+	<folder>foto progetto</folder>
+	<filename>IMG_20190714_185736.jpg</filename>
+	<path>C:\Users\filas\Desktop\foto progetto\IMG_20190714_185736.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>88</ymin>
+			<xmax>359</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cipolla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>155</ymin>
+			<xmax>57</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>
